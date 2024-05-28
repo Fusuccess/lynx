@@ -1096,6 +1096,11 @@ video {
 .link-blog {
   background-color: #3683b6;
 }
+
+.link-travel {
+  background: linear-gradient(2.35619rad, #f69be1 0%, #e6bc9c 100%);
+}
+
 .link-amazon {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));

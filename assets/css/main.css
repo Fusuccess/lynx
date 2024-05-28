@@ -18,6 +18,9 @@
   @apply text-neutral-900;
   background: linear-gradient(2.35619rad, #5a72fa 0%, #0084ff 100%);
 }
+.link-travel {
+  background: linear-gradient(2.35619rad, #f69be1 0%, #e6bc9c 100%);
+}
 .link-amazon {
   @apply text-neutral-900;
   background-color: #ff9900;

@@ -10,6 +10,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link email >}}
 {{< link link >}}
 {{< link blog >}}
+{{< link travel >}}
 {{< link amazon >}}
 {{< link apple >}}
 {{< link bandcamp >}}
