@@ -9,6 +9,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
 {{< link email >}}
 {{< link link >}}
+{{< link blog >}}
 {{< link amazon >}}
 {{< link apple >}}
 {{< link bandcamp >}}
