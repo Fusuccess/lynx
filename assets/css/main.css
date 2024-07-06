@@ -16,10 +16,13 @@
 
 .link-blog {
   @apply text-neutral-900;
-  background: linear-gradient(2.35619rad, #5a72fa 0%, #0084ff 100%);
+  background: linear-gradient(2.35619rad, #7585dc 0%, #0084ff 100%);
 }
 .link-travel {
   background: linear-gradient(2.35619rad, #f69be1 0%, #e6bc9c 100%);
+}
+.link-imageWall {
+  background: linear-gradient(2.35619rad, #89d1e1 0%, #43e9f8 100%);
 }
 .link-amazon {
   @apply text-neutral-900;
