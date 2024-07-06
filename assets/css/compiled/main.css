@@ -1094,11 +1094,13 @@ video {
 }
 
 .link-blog {
-  background-color: #3683b6;
+  background: linear-gradient(2.35619rad, rgba(183, 112, 231, 0.62) 0%, rgba(89, 19, 88, 0.78) 100%);
 }
-
 .link-travel {
   background: linear-gradient(2.35619rad, #f69be1 0%, #e6bc9c 100%);
+}
+.link-imageWall {
+  background: linear-gradient(2.35619rad, #c5b7f8 0%, rgba(35, 39, 128, 0.94) 100%);
 }
 
 .link-amazon {
