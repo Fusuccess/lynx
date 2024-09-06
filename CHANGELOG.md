@@ -4,10 +4,15 @@ All notable changes to Lynx will be documented in this file. Things that need pa
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [dev] - 2024-09-06
 
-## [Unreleased]
+### Added MoHaiXIngChen
 
-### Added
+- Support for MoHaiXingChen
+
+## [dev] - 2024-07-06
+
+### Added 
 
 - Support for Blog , Travel , ImageWall
 

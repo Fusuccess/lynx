@@ -12,6 +12,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link blog >}}
 {{< link travel >}}
 {{< link imageWall >}}
+{{< link mohaixingchen >}}
 {{< link amazon >}}
 {{< link apple >}}
 {{< link bandcamp >}}

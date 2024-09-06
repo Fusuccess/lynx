@@ -24,6 +24,10 @@
 .link-imageWall {
   background: linear-gradient(2.35619rad, #89d1e1 0%, #43e9f8 100%);
 }
+.link-mohaixingchen {
+  background: linear-gradient(2.35619rad, #b1eacc 0%, #153d95 100%);
+}
+
 .link-amazon {
   @apply text-neutral-900;
   background-color: #ff9900;

@@ -1102,7 +1102,9 @@ video {
 .link-imageWall {
   background: linear-gradient(2.35619rad, #c5b7f8 0%, rgba(35, 39, 128, 0.94) 100%);
 }
-
+.link-mohaixingchen {
+  background: linear-gradient(2.35619rad, #b1eacc 0%, #153d95 100%);
+}
 .link-amazon {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
